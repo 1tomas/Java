@@ -1,2 +1,3 @@
 # Java
-handling both arrays and matrices, learning in depth the use of objects
+Handling both arrays and matrices, learning in depth the use of objects
+Projects inside src folder
