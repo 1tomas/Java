@@ -1,2 +1,2 @@
 # Java
-I am in the process of learning this language
+handling both arrays and matrices, learning in depth the use of objects
